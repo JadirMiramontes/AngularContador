@@ -14,6 +14,5 @@ export class CounterComponent{
   handleCount(value: number){
    this.contador= value;
    console.log(value);
-   
   }
 }
